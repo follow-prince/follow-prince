@@ -16,12 +16,10 @@
  
 </p>
 
-**About me**
-- 🎓 currently studying MCA in Dr.MGR University college.
-
-- 💼 FrontEnd Web application Developer.
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level.
+<div align="center">
+🎓 currently studying MCA in Dr.MGR University college.<br> ❤️I love writing TypeScript, and building fun experiments on type-level. <br> 💼 FrontEnd Web application Developer.
+   </div>
+ 
 
 ### Details 
  

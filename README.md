@@ -1,8 +1,7 @@
-<div align="center">
 <h2><h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> வணக்கம் 🙏🏻, I'm PRINCE..! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1></h2>
-<p ><em>Beginner Web Developer
+<p align="center"><em>Beginner Web Developer
   </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-  </em></p> </div>
+  </em></p> 
 
 <p align="center">
 

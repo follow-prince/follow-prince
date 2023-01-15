@@ -16,7 +16,6 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=follow-prince&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=follow-prince&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -27,3 +26,4 @@
 <a href="https://github.com/follow-prince" align="center">
   <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=follow-prince&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=follow-prince&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=follow-prince&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

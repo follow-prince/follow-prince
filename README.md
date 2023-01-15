@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> வணக்கம் (Vaṇakkam) <img src="https://cliply.co/wp-content/uploads/2020/08/432008031_FOLDED_HANDS_3D_LIGHT_SKIN_TONE_400px.gif" width="30"🏻, I'm Elavarasan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> வணக்கம் (Vaṇakkam) <img src="https://cliply.co/wp-content/uploads/2020/08/432008031_FOLDED_HANDS_3D_LIGHT_SKIN_TONE_400px.gif" width="30"🏻 />, I'm Elavarasan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>beginner web developer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 

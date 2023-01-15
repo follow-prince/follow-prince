@@ -3,7 +3,7 @@
 <p><em>beginner web developer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=follow-prince&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=follow-prince&show_icons=true&theme=radical)]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 

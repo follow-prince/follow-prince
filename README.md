@@ -20,7 +20,7 @@
 
 - 💼 FrontEnd Web application Developer.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing TypeScript, and building fun experiments on type-level.
 
 ### Details 
  
@@ -34,7 +34,10 @@
 <p align="center">
   <a href="https://github.com/follow-prince"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=follow-prince&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
 </p>
+<br>
+<br>
 
+<h2>Contributions in the Last Year</h2>
 <a href="https://github.com/follow-prince" align="center">
   <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=follow-prince&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>

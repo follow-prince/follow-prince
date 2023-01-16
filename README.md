@@ -30,6 +30,7 @@
  
 </div>  
 <div align="center">
+  <h2>வாய்ப்புகளை தேடி அலையாதே, <br> வாய்ப்புகளை உருவாக்கு...💯✨</h2>
 🎓 currently studying MCA in Dr.MGR University college.<br> ❤️I love writing TypeScript, and building fun experiments on type-level. <br> 💼 FrontEnd Web application Developer.
    </div>
 
@@ -158,9 +159,7 @@
  
 <a href="https://github.com/follow-prince/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=follow-prince&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
 
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=follow-prince&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+ 
 
 
 
@@ -173,7 +172,9 @@
 
 
 <br>
+<br>
 
+## Don't Give Up
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
  
  

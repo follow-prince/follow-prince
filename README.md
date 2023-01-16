@@ -151,14 +151,21 @@
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
   
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=follow-prince&theme=default)
-  
-  <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=follow-prince&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
-  </div>
+
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=follow-prince&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=follow-prince&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=follow-prince&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=follow-prince&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=follow-prince&theme=github_dark)
+
+  
+  
+  
+
+
+  
   
   <br/>
 

@@ -167,9 +167,8 @@
   
   <br/>
 
-  <summary>Activity Graph 📈</summary>
-  <br/>
- 
+## Activity Graph 📈 
+  
 <a href="https://github.com/follow-prince/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=follow-prince&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
 
  

@@ -151,9 +151,19 @@
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
   
-  <img src="https://raw.githubusercontent.com/follow-prince/follow-prince/blob/output/snake.svg" alt="Snake animation" />
-
   
+  <div align="center" >
+<a href="https://github.com/follow-prince">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=follow-prince&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=follow-prince&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  
+  <div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=follow-prince&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
+  </div>
   
   <br/>
 

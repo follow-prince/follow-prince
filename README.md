@@ -36,7 +36,6 @@
 <br>
 
 <h2>Contributions in the Last Year</h2>
-<a href="https://github.com/follow-prince" align="center">
   <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=follow-prince&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 

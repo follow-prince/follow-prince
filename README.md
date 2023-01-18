@@ -149,9 +149,6 @@
 
 
 ## Github stats 📊 
-
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
   
 
 
@@ -169,11 +166,8 @@
 
   
   
-  <br/>
 
-## Activity Graph 📈 
-  
-<a href="https://github.com/follow-prince/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=follow-prince&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+
 
  
 
@@ -193,10 +187,10 @@
 ## Don't Give Up
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
  
- 
+ <div align="center" >
  <a href="https://www.buymeacoffee.com/follow.prince" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee"  width="200" style="border-radius:150px" />   <a href='https://ko-fi.com/follow_prince' target='_blank'><img width="200" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Prince' />
   </a>
- 
+   </div>
  
  
 

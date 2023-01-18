@@ -11,14 +11,13 @@
   <a href="https://github.com/follow-prince?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/follow-prince?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   <a href="https://github.com/follow-prince/view-count-badge">
-    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/follow-prince/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
- 
-</p>
+    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/follow-prince/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a> 
+  </p>
 
 <div align="center">
    
  [![Instagram](https://img.shields.io/badge/follow-prince-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/follow-prince/)&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/elavarasa003-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elavarasa003/)&nbsp;&nbsp; <br>
+[![Linkedin](https://img.shields.io/badge/elavarasa003-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elavarasa003/)&nbsp;&nbsp; [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_follow_prince)&nbsp;&nbsp;<br>
 
    </div>
  

@@ -17,7 +17,7 @@
 <div align="center">
    
  [![Instagram](https://img.shields.io/badge/follow-prince-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/follow-prince/)&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/elavarasa003-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elavarasa003/)&nbsp;&nbsp; [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_follow_prince)&nbsp;&nbsp;<br>
+[![Linkedin](https://img.shields.io/badge/elavarasa003-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elavarasa003/)&nbsp;&nbsp; [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_follow_prince)&nbsp;&nbsp;  <br>
 
    </div>
  
@@ -191,7 +191,7 @@
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
  
  
- 
+ <a href="https://www.buymeacoffee.com/follow.prince" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee"  width="200" style="border-radius:15px" />
  
  
  

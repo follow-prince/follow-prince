@@ -35,6 +35,10 @@
   <h2>வாய்ப்புகளை தேடி அலையாதே, <br> வாய்ப்புகளை உருவாக்கு...💯✨</h2>
 🎓 currently studying MCA in Dr.MGR University college.<br> ❤️I love writing TypeScript, and building fun experiments on type-level. <br> 💼 FrontEnd Web application Developer.
    </div>
+   
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=follow-prince&theme=monokai)](https://github.com/follow-prince)
 
 ## My favorite tools and technologies ⚙️ 
 
@@ -173,9 +177,7 @@
 
 
 
-## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=follow-prince&theme=monokai)](https://github.com/follow-prince)
 
 
 

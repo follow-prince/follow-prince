@@ -33,11 +33,11 @@
 ## Github stats 📊 
 <a href="https://wakatime.com/@6817c547-15ff-41d8-be95-49f82f64eb1e"><img src="https://wakatime.com/badge/user/6817c547-15ff-41d8-be95-49f82f64eb1e.svg" alt="Total time coded since Jul 28 2023" /></a>
 
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="680" style=" border-radius: 20px;"  >
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=follow-prince&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=follow-prince&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=follow-prince&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=follow-prince&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=follow-prince&theme=github_dark)
 
 
 

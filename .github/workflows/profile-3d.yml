@@ -21,11 +21,5 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "generated"
-          git pull origin main
-          git add .
-          git commit -m "Merge changes from remote"
+          git pull origin main --rebase
           git push origin main
-
-
-
-

@@ -3,11 +3,9 @@ name: Generate Snake Contributions
 on:
   schedule:
     - cron: '30 23 * * *'
+
   workflow_dispatch:
-  push:
-    branches:
-      - "master"
-      - "main"
+  push: {branches: ["master", "main"]}
 
 jobs:
   snake:
@@ -24,15 +22,11 @@ jobs:
       # Commit the changes
       - name: Commit files
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config --local user.email "https//elavarasan.me"
+          git config --local user.name "Prince via github-actions"
           git add .
-          git commit -m "generated"
-          git pull origin main --rebase
-          git push 
-      # Pull before pushing (assuming this is necessary)
-      - name: Pull before push
-        run: git pull --rebase --autostash
+          git commit -m "docs: Update Snake Contribution Animation"
+          git pull --rebase --autostash
       # Push the changes
       - name: Push
         uses: ad-m/github-push-action@master

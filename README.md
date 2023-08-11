@@ -39,6 +39,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=follow-prince&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=follow-prince&theme=github_dark)
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/follow-prince/follow-prince/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/follow-prince/follow-prince/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/follow-prince/follow-prince/output/github-contribution-grid-snake.svg">
+  </picture>
+
+
+
 
 
 

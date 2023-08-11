@@ -31,22 +31,20 @@
 </p>
 
 ## Github stats 📊 
+
 <a href="https://wakatime.com/@6817c547-15ff-41d8-be95-49f82f64eb1e"><img src="https://wakatime.com/badge/user/6817c547-15ff-41d8-be95-49f82f64eb1e.svg" alt="Total time coded since Jul 28 2023" /></a>
 
+<table>
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="500" style=" border-radius: 20px;"  >‎ ‎ ‎   <a href="https://app.daily.dev/follow-prince"><img src="https://api.daily.dev/devcards/da85f8f5e0b24aa2976eccb7081e709f.png?r=lgc" width="250" alt="ELAVARASAN S's Dev Card"/></a>
+<tr><img src="profile-3d-contrib/profile-night-rainbow.svg" width="500" style=" border-radius: 20px;"  >‎ ‎ ‎   <a href="https://app.daily.dev/follow-prince"><img src="https://api.daily.dev/devcards/da85f8f5e0b24aa2976eccb7081e709f.png?r=lgc" width="250" alt="ELAVARASAN S's Dev Card"/></a></tr>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=follow-prince&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=follow-prince&theme=github_dark)
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/follow-prince/follow-prince/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/follow-prince/follow-prince/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/follow-prince/follow-prince/output/github-contribution-grid-snake.svg">
-  </picture>
-
-
-
+  <tr><a href="https://elavarasan.me" target="_blank" title="Click Here..!">
+    <img width="700" src="https://raw.githubusercontent.com/follow-prince/follow-prince/main/assets/gen/snake.svg" />
+  </a></tr>
+</table>
 
 
 

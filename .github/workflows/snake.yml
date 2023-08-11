@@ -29,7 +29,7 @@ jobs:
           git add .
           git commit -m "generated"
           git pull origin main --rebase
-          git push origin main
+          git push 
       # Pull before pushing (assuming this is necessary)
       - name: Pull before push
         run: git pull --rebase --autostash

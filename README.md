@@ -35,15 +35,16 @@
 <a href="https://wakatime.com/@6817c547-15ff-41d8-be95-49f82f64eb1e"><img src="https://wakatime.com/badge/user/6817c547-15ff-41d8-be95-49f82f64eb1e.svg" alt="Total time coded since Jul 28 2023" /></a>
 
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="500" style=" border-radius: 20px;"  >‎ ‎ ‎   <a href="https://app.daily.dev/follow-prince"><img src="https://api.daily.dev/devcards/da85f8f5e0b24aa2976eccb7081e709f.png?r=lgc" width="250" alt="ELAVARASAN S's Dev Card"/></a>
+
 
 <a href="https://elavarasan.me" target="_blank" title="GitHub metrics!">
-        <img width="500" src="https://raw.githubusercontent.com/follow-prince/follow-prince/main/assets/gen/metrics.svg" />
-    </a>
+        <img width="400" src="https://raw.githubusercontent.com/follow-prince/follow-prince/main/assets/gen/metrics.svg" />
+    </a>  <a href="https://app.daily.dev/follow-prince"><img src="https://api.daily.dev/devcards/da85f8f5e0b24aa2976eccb7081e709f.png?r=lgc" width="250" alt="ELAVARASAN S's Dev Card"/></a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=follow-prince&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=follow-prince&theme=github_dark)
 
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="800" style=" border-radius: 20px;"  >
 
   <a href="https://elavarasan.me" target="_blank" title="Click Here..!">
     <img width="700" src="https://raw.githubusercontent.com/follow-prince/follow-prince/main/assets/gen/snake.svg" />

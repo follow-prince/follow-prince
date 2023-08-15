@@ -22,7 +22,7 @@ jobs:
           plugin_calendar: yes
 
       - name: Update Full History Calendar
-        uses: follow-prince/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.calendar.full.svg
           token: ${{ secrets.GITHUB_TOKEN }}

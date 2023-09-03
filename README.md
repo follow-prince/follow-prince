@@ -85,7 +85,7 @@
 
 | <a href="https://wakatime.com/@6817c547-15ff-41d8-be95-49f82f64eb1e"><img src="https://wakatime.com/badge/user/6817c547-15ff-41d8-be95-49f82f64eb1e.svg" alt="Total time coded since Jul 28 2023" /></a> |
 |---|
-| <img src="https://github.com/follow-prince/follow-prince/blob/main/images/stat.svg" alt="wakatime hours"></img> |
+| <img width="700px" src="https://github.com/follow-prince/follow-prince/blob/main/images/stat.svg" alt="wakatime hours"></img> |
 
 | GitHub metrics | ELAVARASAN S's Dev Card |
 |---|---|

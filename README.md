@@ -3,11 +3,8 @@
 <td>
 <div align="center">
 
-<h1>𝗜'𝗺 ELAVARASAN <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-
-<p align="center"><em>Aspiring  Software Developer..
-  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  </em></p> 
+# 𝙸'𝚖 𝙴𝙻𝙰𝚅𝙰𝚁𝙰𝚂𝙰𝙽<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+#### <p align="center"><em>Aspiring  Software Developer..</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></em></p> 
 
 
 

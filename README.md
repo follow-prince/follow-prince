@@ -83,12 +83,12 @@
 
 ## Github stats 📊 
 
-| <a href="https://wakatime.com/@6817c547-15ff-41d8-be95-49f82f64eb1e"><img src="https://wakatime.com/badge/user/6817c547-15ff-41d8-be95-49f82f64eb1e.svg" alt="Total time coded since Jul 28 2023" /></a> |
-|---|
-| <img width="700px" src="https://github.com/follow-prince/follow-prince/blob/main/images/stat.svg" alt="wakatime hours"></img> |
-
+| Language Usage Over the Last 7 Days  | Operating Systems Usage Over Last 30 Days  |
+|---|--|
+| <img width="90%" src="https://wakatime.com/share/@follow_prince/b4805061-c424-444f-84e6-7dde4011dbe2.svg" /> | <img width="90%"   width="700px" src="https://wakatime.com/share/@follow_prince/cf0c3238-d333-4096-8675-d103e5d04d62.svg" alt="wakatime hours"></img>  |
+|  | |
+|<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=follow-prince" /> ||
 | GitHub metrics | ELAVARASAN S's Dev Card |
-|---|---|
 | <a  title="GitHub metrics!"><img width="400" src="https://raw.githubusercontent.com/follow-prince/follow-prince/main/assets/gen/metrics.svg" /></a>  |  <div align="center" ><a   href="https://app.daily.dev/follow-prince"><img src="https://api.daily.dev/devcards/da85f8f5e0b24aa2976eccb7081e709f.png?r=lgc" width="250" alt="ELAVARASAN S's Dev Card"/></a></div> |
 | Stats |Top Languages |
 | <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=follow-prince&theme=github_dark" />  | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=follow-prince&theme=github_dark" /> |
@@ -146,7 +146,10 @@
  <a href="https://www.buymeacoffee.com/follow.prince" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee"  width="200" style="border-radius:150px" />   <a href='https://ko-fi.com/follow_prince' target='_blank'><img width="200" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Prince' />
   </a>
 
+| <img src="https://spotify-recently-played-readme.vercel.app/api?user=316k5npmv6h6b6xikoaexg7dvcvm" /> |
+| - |
 </div>
+
 
 
 

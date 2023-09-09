@@ -119,7 +119,7 @@
         <tr><td>🌱 <b>Techie v1</b></td><td>2022</td></tr>
         <tr><td>🚀 <b>Techie v2</b></td><td>2023</td></tr>
         <tr><td>💫 <b>Focus On</b></td><td><a href="https://flutter.dev">Flutter</a> | <a href="https://dart.dev">Dart</a> | <a href="https://firebase.google.com">Firebase</a> | <a href="https://g.dev/follow-prince">Machine Learning</a> | <a href="https://www.python.org/">Python</a> |  <a href="https://www.djangoproject.com/">Django</a>  </td></tr>
-        <tr><td>📄 <b>Blog</b></td><td>View my blog here 👉🏽 <a href="https://i-am-prince.vercel.app"> blog.prince.dev</a></td></tr>
+        <tr><td>📄 <b>Blog</b></td><td>View my blog here 👉🏽 <a href="https://blog.elavarasan.me"> blog.elavarasan.me</a></td></tr>
         <tr><td>📌 <b>Gists</b></td><td><a href="https://gist.github.com/follow-prince">GitHub Gist</a></td></tr>
         <tr><td>🧙 <b>Support</b></td><td>Open Source | Volunteering | Helping Others | Peace | Loneliness</td></tr>
         <tr><td>💖 <b>Hobbies</b></td><td>Learning New Things | Listening to Music | Content Creation</td></tr>

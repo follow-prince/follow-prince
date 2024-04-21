@@ -116,7 +116,7 @@ In recent years, I've been learning new technologies and languages. These are th
 - <img src="assets/images/Cross Mark.png" width="15"> Gaming <img src="assets/images/Alien Monster.png" width="25"> `Quited in 2021`
 - <img src="assets/images/Cross Mark.png" width="15"> Anime <img src="assets/images/Fish Cake with Swirl.png" width="25"> `Stopped watching in 2022`
 
-</div
+</div>
 ## Github stats 📊 
 
 | Language Usage Over the Last 7 Days  | Operating Systems Usage Over Last 30 Days  |

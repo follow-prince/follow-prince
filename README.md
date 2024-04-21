@@ -59,20 +59,6 @@
     
 
 
-## GitHub Profile Trophy 🏆
-<table>
-<tr>
-<td>
-<table>
-<tr>
-<td>
-<img src="https://github-profile-trophy.vercel.app/?username=follow-prince&row=1&column=6" />
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
 <h2> Who I am 🤔❓</h2>
   
 
@@ -80,7 +66,57 @@
   <p>Hi there! I'm a student, developer, and  volunteer. I believe that personal growth and learning are essential for success, and I have dedicated my life to achieving both. Because of that, I'm always looking to learn new things and apply them to whatever I'm doing. Technology is always igniting my passion for the positive impact it can have, and I'm excited to continue growing my skills and knowledge, so I started my career as a techie. In addition to my studies, I'm also passionate about giving back to various communities and helping others, which is why I volunteer my time to help out whenever I can, and I believe that this work is vital in helping to create a better future for everyone.  
 </p>
 
+## Bio
+<table>
+<tr><td>🤓 <b>Name</b></td><td>ELAVARASAN</td></tr>
+<tr><td> 😘 <b>Nickname</b></td><td>Prince</td></tr>
+        <tr><td>💼 <b>Career</b></td><td> Student |  Developer |  Volunteer</td></tr>
+        <tr><td>🎒 <b>Campus</b></td><td><a href="https://www.drmgrdu.ac.in/">Dr. M.G.R. Educational And  Research Institute - Chennai</a></td></tr>
+        <tr><td>🎓 <b>Course</b></td><td><a href="https://www.nibm.lk/programmes/bsc-hons-computing/">MCA - Master of Computer Applications</a></td></tr>
+        <tr><td>🌐 <b>Domain</b></td><td><a href="https://elavarasan.me">www.elavarasan.me</a></td></tr>
+        <tr><td>🌱 <b>Techie v1</b></td><td>2022</td></tr>
+        <tr><td>🚀 <b>Techie v2</b></td><td>2024</td></tr>
+        <tr><td>💫 <b>Focus On</b></td><td><a href="https://flutter.dev">Flutter</a> | <a href="https://dart.dev">Dart</a> | <a href="https://firebase.google.com">Firebase</a> | <a href="https://g.dev/follow-prince">Machine Learning</a> | <a href="https://www.python.org/">Python</a> |  <a href="https://www.djangoproject.com/">Django</a>  </td></tr>
+        <tr><td>📄 <b>Blog</b></td><td>View my blog here 👉🏽 <a href="https://elavarasan.me"> elavarasan.me</a></td></tr>
+        <tr><td>📌 <b>Gists</b></td><td><a href="https://gist.github.com/follow-prince">GitHub Gist</a></td></tr>
+        <tr><td>🧙 <b>Support</b></td><td>Open Source | Volunteering | Helping Others | Peace | Loneliness</td></tr>
+        <tr><td>💖 <b>Hobbies</b></td><td>Learning New Things | Listening to Music | Content Creation</td></tr>
+        <tr><td>😍 <b>Love</b></td><td>To Make New Friends</td></tr>
+        <tr><td>🌟 <b>Excellent Lines</b></td><td>வாய்ப்புகளை தேடி அலையாதே, <br> வாய்ப்புகளை உருவாக்கு...💯✨</td></tr>
+    </table> 
 
+## Skills <img src="assets/images/Rocket.png" width="30">
+
+In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.
+| **#** | **Language** | **Proficiency** |
+| :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
+|<img src="assets/icons/StackOverflow.svg" width="25">|`CTRL+C & CTRL+V`|<img src="assets/images/Fire.png" alt="Mastery" width="25">|
+|<a href="https://www.python.org/"><img src="assets/icons/Python.svg" width="25"></a> | `Python`|<img src="assets/images/Flexed Biceps Light Skin Tone.png" alt="Advance" width="25"> |
+| <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="assets/icons/C.svg" width="25"></a> | `C` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25"> |
+| <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="assets/icons/CPP.svg" width="25"></a> | `C++` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25"> |
+|<a href="https://www.javascript.com/"><img src="assets/icons/JavaScript.svg" width="25"></a>|`JavaScript` | <img src="assets/images/Flexed Biceps Light Skin Tone.png" alt="Advance" width="25">|
+|<a href="https://tailwindcss.com/"><img src="assets/icons/TailwindCSS.svg" width="25"></a>| `TailwindCSS`| <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25">|
+|<a href="https://reactjs.org/"><img src="assets/icons/React.svg" width="25"></a> | `ReactJS` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25">|
+| <a href="https://nextjs.org/"><img src="assets/icons/NextJS.svg" width="25"></a>|`NextJS` | <img src="assets/images/Flexed Biceps Light Skin Tone.png" alt="Advance" width="25">|
+|<a href="https://nodejs.org/"><img src="assets/icons/NodeJS.svg" width="25"></a> | `NodeJS`| <img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+| <a href="https://expressjs.com/"><img src="assets/icons/ExpressJS.svg" width="25"></a>| `ExpressJS`| <img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+|<a href="https://www.djangoproject.com/"><img src="assets/icons/Django.svg" width="25"></a>|`Django`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+|<a href="https://dart.dev/"><img src="assets/icons/Dart-Light.svg" width="25"></a>|`Dart`|<img src="assets/images/Nerd Face.png" alt="Beginner" width="25">|
+|<a href="https://www.swift.org/"><img src="assets/icons/Swift.svg" width="25"></a>|`Swift`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+|<a href="https://soliditylang.org/"><img src="assets/icons/Solidity.svg" width="25"></a>|`Solidity`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+
+
+> Printed "Hello, World!" in `15 other languesges`.
+<div  align="left" >
+
+## Things I like to do in my free time <img src="assets/images/T-Rex.png" width="30">
+
+- <img src="assets/images/Check Mark Button.png" width="15"> **Coding** <img src="assets/images/Man Technologist Light Skin Tone.png" width="25">
+- <img src="assets/images/Cross Mark.png" width="15"> Music <img src="assets/images/Musical Notes.png" width="25"> `Stopped listening in 2022`
+- <img src="assets/images/Cross Mark.png" width="15"> Gaming <img src="assets/images/Alien Monster.png" width="25"> `Quited in 2021`
+- <img src="assets/images/Cross Mark.png" width="15"> Anime <img src="assets/images/Fish Cake with Swirl.png" width="25"> `Stopped watching in 2022`
+
+</div
 ## Github stats 📊 
 
 | Language Usage Over the Last 7 Days  | Operating Systems Usage Over Last 30 Days  |
@@ -107,25 +143,8 @@
 
 
 
-<table>
 
-## Bio
-<tr><td>🤓 <b>Name</b></td><td>ELAVARASAN</td></tr>
-<tr><td> 😘 <b>Nickname</b></td><td>Prince</td></tr>
-        <tr><td>💼 <b>Career</b></td><td> Student |  Developer |  Volunteer</td></tr>
-        <tr><td>🎒 <b>Campus</b></td><td><a href="https://www.drmgrdu.ac.in/">Dr. M.G.R. Educational And  Research Institute - Chennai</a></td></tr>
-        <tr><td>🎓 <b>Course</b></td><td><a href="https://www.nibm.lk/programmes/bsc-hons-computing/">MCA - Master of Computer Applications</a></td></tr>
-        <tr><td>🌐 <b>Domain</b></td><td><a href="https://elavarasan.me">www.elavarasan.me</a></td></tr>
-        <tr><td>🌱 <b>Techie v1</b></td><td>2022</td></tr>
-        <tr><td>🚀 <b>Techie v2</b></td><td>2024</td></tr>
-        <tr><td>💫 <b>Focus On</b></td><td><a href="https://flutter.dev">Flutter</a> | <a href="https://dart.dev">Dart</a> | <a href="https://firebase.google.com">Firebase</a> | <a href="https://g.dev/follow-prince">Machine Learning</a> | <a href="https://www.python.org/">Python</a> |  <a href="https://www.djangoproject.com/">Django</a>  </td></tr>
-        <tr><td>📄 <b>Blog</b></td><td>View my blog here 👉🏽 <a href="https://elavarasan.me"> elavarasan.me</a></td></tr>
-        <tr><td>📌 <b>Gists</b></td><td><a href="https://gist.github.com/follow-prince">GitHub Gist</a></td></tr>
-        <tr><td>🧙 <b>Support</b></td><td>Open Source | Volunteering | Helping Others | Peace | Loneliness</td></tr>
-        <tr><td>💖 <b>Hobbies</b></td><td>Learning New Things | Listening to Music | Content Creation</td></tr>
-        <tr><td>😍 <b>Love</b></td><td>To Make New Friends</td></tr>
-        <tr><td>🌟 <b>Excellent Lines</b></td><td>வாய்ப்புகளை தேடி அலையாதே, <br> வாய்ப்புகளை உருவாக்கு...💯✨</td></tr>
-    </table> 
+
 <h2>Where you can find me 😉🔍</h2>
     <a href="https://hashnode.com/@elavarasan"><img src="https://ghmd.dileepabandara.dev/widgets/blog/dark/hashnode.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://www.linkedin.com/in/elavarasa003/"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/linkedin.png" height=50px weight=50px></img></a> &nbsp

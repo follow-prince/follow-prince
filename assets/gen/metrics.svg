@@ -23,7 +23,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="218.5703363914373" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="218.5703363914373" y="0" width="138.83622154264356" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="218.5703363914373" y="0" width="138.83622154264356" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="357.40655793408087" y="0" width="89.3076792388719" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="446.7142371729528" y="0" width="13.188073394495413" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="459.9023105674482" y="0" width="0.09768943255181786" height="8" fill="#ededed"/>
@@ -71,7 +71,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
@@ -97,7 +97,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 356kb of code in 326 edited files across 20 commits over last 7 days</small>
+                <small>estimation from 405kb of code in 377 edited files across 26 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>

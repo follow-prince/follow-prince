@@ -18,7 +18,7 @@ Hi there! I'm a student, developer, and volunteer. I believe that personal growt
 <table style="border: 2px solid red; border-collapse: collapse;">
 <tr>
 <td><a href="https://elavarasan.me">
-<img style="border: solid white 1px" src="./github-metrics.svg" width="80%">
+<img style="border: solid white 1px" src="./github-metrics.svg" width="95%">
 </a></td>
 </tr>
 </table>

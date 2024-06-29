@@ -16,15 +16,15 @@ Hi there! I'm a student, developer, and volunteer. I believe that personal growt
 </p>
 
 <table style="border: 2px solid red; border-collapse: collapse;">
-<tr>
-<td><a href="https://elavarasan.me">
-<img style="border: solid white 1px" src="./github-metrics.svg" width="95%">
-</a></td>
-</tr>
-</table>
 
 </div>
 </td>
+</tr>
+</table>
+<tr>
+<td><a href="https://elavarasan.me">
+<img src="./github-metrics.svg" width="98%">
+</a></td>
 </tr>
 </table>
 

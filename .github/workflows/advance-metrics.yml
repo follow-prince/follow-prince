@@ -33,7 +33,6 @@ jobs:
           user: follow-prince
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -112,12 +111,6 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://elavarasan.me/feed
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://elavarasan.me
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
           plugin_sponsors_size: 24

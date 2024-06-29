@@ -1,4 +1,4 @@
-<img src="./github-metrics.svg" width="100%"> 
+<a href="#"><img src="./github-metrics.svg" width="100%"> </a>
 
 <h2>Where you can find me 😉🔍</h2>
     <a href="https://hashnode.com/@elavarasan"><img src="https://ghmd.dileepabandara.dev/widgets/blog/dark/hashnode.png" height=50px weight=50px></img></a> &nbsp
@@ -15,6 +15,7 @@
     <b>Send me an email at 👉🏽</b> <a href="mailto:elavarasa.003@gmail.com"> elavarasa.003@gmail.com</a> | <a href="mailto:contact@elavarasan.me"> contact@elavarasan.me</a>
 
 ## Support me guys
+
 <div>
 <a href="https://www.buymeacoffee.com/follow.prince" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee"  width="200" style="border-radius:150px" /> <a href='https://ko-fi.com/follow_prince' target='_blank'><img width="200" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Prince' />
 </a>

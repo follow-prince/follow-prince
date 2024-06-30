@@ -35,8 +35,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
-          base_skip: yes
-          config_display: columns
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -49,7 +47,7 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_calendar_limit: 3
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 12
@@ -59,6 +57,7 @@ jobs:
           plugin_discussions_categories: yes
           plugin_followup: yes
           plugin_followup_archived: yes
+          plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           plugin_gists: yes
           plugin_habits: yes
@@ -88,11 +87,9 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
           plugin_people: yes
           plugin_people_limit: 24
+          plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_projects: yes
@@ -124,4 +121,3 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_traffic: yes
-          repositories_forks: yes

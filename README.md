@@ -4,7 +4,7 @@
 
 <tr>
 <td>
-<a href="##"> <img src="./github-metrics.svg" width="98%">
+<a href="##"> <img src="./github-metrics.svg" width="100%">
 </a>
 </td>
 </tr>

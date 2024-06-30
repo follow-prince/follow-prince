@@ -46,7 +46,7 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_calendar_limit: 2
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_languages: javascript, typescript
@@ -91,6 +91,11 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_pwa: yes
+          plugin_pagespeed_url: elavarasan.me
+          plugin_pagespeed_token: AIzaSyCGGLgRXVw9rRp02WLVP1Q4am3sr7S4cgw
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_shuffle: yes
@@ -141,3 +146,13 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_traffic: yes
+          plugin_wakatime: yes
+          plugin_wakatime_days: 30
+          plugin_wakatime_languages_ignored: html, css
+          plugin_wakatime_languages_other: yes
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: follow_prince
+          plugin_wakatime_token : ${{ secrets.WAKATIME_API_KEY }}

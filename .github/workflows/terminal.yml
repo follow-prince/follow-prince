@@ -43,7 +43,7 @@ jobs:
           plugin_leetcode_user: iam-prince
           plugin_rss: yes
           plugin_rss_limit: 6
-          plugin_rss_source: https://elavarasan.me/feed
+          plugin_rss_source: https://princey.tech/feed
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4

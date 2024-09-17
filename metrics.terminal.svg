@@ -103,7 +103,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>annezhou920/react-dnd-example</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Created with CodeSandbox</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saasfly/saasfly</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises</div>
@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muxinc/video-course-starter-kit</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A starter template to help create a video course with Mux + Next.js</div>
@@ -520,9 +520,9 @@ I have provided a code snippet for a Flutter application that includes an IconBu
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.293134872417983 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.289705435772852 329"/>
                                     <text x="60" y="50" dominant-baseline="central">113</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3292</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3293</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -538,9 +538,9 @@ I have provided a code snippet for a Flutter application that includes an IconBu
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.470075537478209 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.463414634146341 329"/>
                                     <text x="60" y="50" dominant-baseline="central">60</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1721</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1722</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>

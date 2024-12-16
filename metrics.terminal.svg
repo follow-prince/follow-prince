@@ -103,7 +103,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mahakPandeyOfficial/3D-Avatar-React-Threejs</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">"3D-Avatar-React-Threejs" is a dynamic repository crafted for those eager to dive into the immersive world of My 3D avatar within the React framework, powered by the versatility of Three.js.</div>
@@ -525,9 +525,9 @@ I have provided a code snippet for a Flutter application that includes an IconBu
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.969902626143403 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.966666666666667 329"/>
                                     <text x="60" y="50" dominant-baseline="central">113</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3389</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3390</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -552,9 +552,9 @@ I have provided a code snippet for a Flutter application that includes an IconBu
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.497429305912596 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.490372272143774 329"/>
                                     <text x="60" y="50" dominant-baseline="central">13</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/778</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/779</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>

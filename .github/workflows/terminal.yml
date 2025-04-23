@@ -58,9 +58,6 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://princey.me
-          plugin_screenshot: yes
-          plugin_screenshot_title: Princey Workfolio
-          plugin_screenshot_url: https://princey.me
-          plugin_screenshot_selector: "#comic img"
+        
 
 

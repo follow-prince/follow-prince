@@ -157,7 +157,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FOSSUChennai/Communities</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get All your Tamil Nadu Tech Meetups in one place</div>
@@ -579,9 +579,9 @@ I have provided a code snippet for a Flutter application that includes an IconBu
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.370153417015343 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.367261572783045 329"/>
                                     <text x="60" y="50" dominant-baseline="central">113</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3585</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3586</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -597,9 +597,9 @@ I have provided a code snippet for a Flutter application that includes an IconBu
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.612903225806452 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.60720042987641 329"/>
                                     <text x="60" y="50" dominant-baseline="central">60</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1860</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1861</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
